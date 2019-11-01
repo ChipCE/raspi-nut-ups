@@ -1,0 +1,2 @@
+# Omron BY80S / BY50S / BY35S
+ATTR{idVendor}=="#@VENDOR_ID", ATTR{idProduct}=="#@PRODUCT_ID", MODE="664", GROUP="nut"
