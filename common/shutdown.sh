@@ -9,7 +9,7 @@ fi
 # On battery
 if [[ "$NOTIFYTYPE" = "ONBATT" ]]
 then
-    sudo shutdown -P 1
+    sudo shutdown -P 2
 fi
 
 # Low battery
