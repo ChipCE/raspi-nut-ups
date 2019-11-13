@@ -135,4 +135,5 @@ systemctl start nut-server
 systemctl start nut-client
 echo ""
 echo "Done."
+echo "Please reboot the system to apply changes."
 exit 0
